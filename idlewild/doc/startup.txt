@@ -1,0 +1,60 @@
+
+
+                                                                                
+                            SX22222222222222222222X;                            
+                           r;                      M                            
+                           ;; * INIITIAL CHECKUPS  M
+                           ri                  .   M                            
+                           .ZXSSXSXXXX7 M.SXXXXXX27Z                            
+                                        M                                       
+                                      r:M ;                                     
+                                  77:.     ::77;                                
+                             .;77.   SKINS ?    ;r;i:.
+                    .7aMMM@W8                     ::iiMMMMM@@M@M0@
+           MWMWMWMW8ar.      ;ir77           .77i7               87             
+           M                      i;77;, :77;:                   8X             
+           M                            r                         r             
+           M                                             ,iiiii: MM iiiiiii.    
+          :M:                                          MMMMMMMMMM00@MMMMMMMMMM  
+  MMMMMMMMMMMMMMMMMMMMMM                               M                    iM  
+  MW                  MM                               M   LOAD DEFAULT     XM
+  M@  LOAD IT SO      MM                               M:                   BM
+  MMWMM@@MMM@MMMMMMMMBMM                               @MMMMMMMMMMMMMMMMMMMMMZ  
+   ..iiii::i,iiiiiiii                                              :            
+           :                                                       0            
+          .87SSSSSSX77777777777777777rrrr777777777X;;;;;rr777777iW
+                                       M
+                    MXBBBBBBBB0WZW@0MBZ0WW@WM0WWW0BBBBBBBSM:                    
+                    M        LOGIN/PASSWD ENTRYES         M  /
+                    M    CONFIGURATION DIALOG CALLER      M --@Mi
+                    M                                     M  \   M
+                    MBMMMMMMMMMMMMMMM@2@MMMMMMMMMMMMMMMMMWM     M
+                                      .                         M
+                                     ;MW                        M
+                                 2MMMZ ,MMMa                    M
+                             BMMM7         XMMMX                M
+                    ,;ZBMMMMS     CONNECTED ?  SMMW             M
+          M@MMMMMMW@X7     0MMi                 ;@M@W@@@@@@@@@WB
+         rZ                   2MM0r         aMMM;
+         ;0                      .8MMM.,MMMM:
+         .2                           BB.
+         SW
+ MMMMMMMMMMMMMMMMMMMMM
+ M  SHOW CONTACT     M
+ M     LIST          M
+ BSW@@@@MX@@@@@@@@@WSB
+
+
+
+ The initialization is a sequence of checkups that looks for $HOME directory
+ and the existence od $HOME/.idlewild and any other data needed by the programs
+ $HOME/.idlewild/skins for example....
+
+ * A class called IMglobal is being developed now it will do the initial 
+  verifications and checkups, any initial step that you think is important
+  feel free to add to this class as a public method
+ 
+
+
+                                                                                
+                                                                                
