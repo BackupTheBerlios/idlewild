@@ -1,0 +1,81 @@
+Use 8 space indent 
+Spaces between ","
+ex: 1, 2, 3, 4;
+
+if/else-statements:
+An else clause is joined to any preceding close curly brace
+that is part of its if.
+
+if (....)
+{
+	....
+} 
+else
+{
+	....
+}
+
+if the line needs to be splited up, right after an if-statement
+use {and }, so its clear when the if-statement ends.
+ex:
+if (...) 
+{
+    function(.....,
+             ......, .... );
+}
+
+while-statement:
+
+while (...) 
+{
+	....
+}
+
+for-statement:
+
+for (init; condition; update) 
+{
+	....
+}
+
+for (longinit;
+     longcondition;
+     longupdate ) 
+{
+	....
+}
+
+do-statement:
+
+do {
+    ....
+} 
+while (...);
+
+switch-statement:
+should always have a default value.
+Enum values is an exception, they should not have a default: , when you add
+new values to an enum you might forget to add them to switch statement.
+
+switch (...) 
+{
+    case ...:
+        ...;
+        break;
+    case ...: {
+        ...;
+    } break;
+    case ...:
+        ...;
+    default:
+        ....;
+       break;
+}
+
+Includes
+we should use 
+#ifndef File_name
+#define File_name
+#enddif
+
+ADD MORE here

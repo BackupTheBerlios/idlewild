@@ -1,0 +1,11 @@
+This is a quick how to install messanger
+
+*nix:
+
+type 
+   make ( this might take some time )
+   make install ( if you dont have access to the directory you will need to be root )
+
+Windows:
+
+	i am unsure right now lol

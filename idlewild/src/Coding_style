@@ -1,0 +1,4 @@
+Refer to ../doc/Codeing_style
+
+The include directory should be used for all header files
+and all source file here 
